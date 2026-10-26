@@ -1,0 +1,19 @@
+Firmware size: 134,217,728 bytes
+
+=== central_007C2ACC: absolute offset 0x007C2ACC ===
+Saved region: firmware_extracted\regions\central_007C2ACC.bin (4096 bytes)
+Central header: version_needed=26624, flags=0xF744, method=64674, compressed=4248368964, uncompressed=3489802241, name_len=8192, extra_len=17344, comment_len=48392, local_header_offset=0x0006000C
+ZIP end record within nearby 64 KiB each way: none
+ZIP data descriptor within nearby 64 KiB each way: none
+
+=== central_00830ACC: absolute offset 0x00830ACC ===
+Saved region: firmware_extracted\regions\central_00830ACC.bin (4096 bytes)
+Central header: version_needed=178, flags=0xDEFC, method=180, compressed=687865870, uncompressed=2416021506, name_len=53285, extra_len=11264, comment_len=53283, local_header_offset=0xE860F52F
+ZIP end record within nearby 64 KiB each way: none
+ZIP data descriptor within nearby 64 KiB each way: none
+
+=== local_00AC454D: absolute offset 0x00AC454D ===
+Saved region: firmware_extracted\regions\local_00AC454D.bin (4096 bytes)
+Local header: version_needed=20, flags=0x5F00, method=29440, compressed=1593835520, uncompressed=771781376, name_len=27136, extra_len=24832
+ZIP end record within nearby 64 KiB each way: none
+ZIP data descriptor within nearby 64 KiB each way: none
