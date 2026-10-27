@@ -1,0 +1,761 @@
+0x001204B8 [ASCII] VMTS STORAGE DEVICE
+0x0022C7D0 [UTF16LE] .system/TEMP
+0x00256594 [ASCII] /dev/nand/1
+0x0025B108 [ASCII] Storage init at interrupt mode
+0x0025B480 [ASCII] Storage init at polling mode
+0x0026AE50 [ASCII] Storage init at interrupt mode
+0x0026B1A4 [ASCII] Storage init at polling mode
+0x0026E248 [ASCII] can not find storage ip
+0x0027EB24 [ASCII] init fail, hide storage change event!
+0x0027F01C [ASCII] storage r error!!! wrong slotstatus 0x%02X!
+0x0027F080 [ASCII] storage r fail error code = 0x%02X
+0x0027F3F4 [ASCII] storage w error!!! wrong slotstatus 0x%02X!
+0x0027F45C [ASCII] storage w fail error code = 0x%02X
+0x00347A64 [ASCII] storage monitor parser
+0x00347CF4 [ASCII] Wrong timer ID in storage timer expired event
+0x00379A38 [ASCII] storage:%d, path:%s, len:%d, mode:%d, cam path:%s
+0x00394304 [ASCII] => Java task init!!!
+0x00394320 [ASCII] => Java task parse
+0x003BD5BC [ASCII] /NAND/.system/WapExplorer/Browser/
+0x003D2D3C [ASCII] ABL_CamSetSticker: AppId:%d, sticker:%s, Cb:%08x
+0x0040EE08 [ASCII] init fail, hide storage change event!
+0x0040F2F0 [ASCII] storage r error!!! wrong slotstatus 0x%02X!
+0x0040F320 [ASCII] storage r fail error code = 0x%02X
+0x0040F5E4 [ASCII] storage r share pin error!!! wrong slotstatus 0x%04X!
+0x0040FAF4 [ASCII] storage w error!!! wrong slotstatus 0x%02X!
+0x0040FB24 [ASCII] storage w fail error code = 0x%02X
+0x0040FD74 [ASCII] storage w share pin error!!! wrong slotstatus 0x%04X!
+0x00424FD0 [ASCII] CSN1 : Bad encoding params/version
+0x00424FFC [ASCII] CSN1 : Bad decoding params/version
+0x00466518 [UTF16LE] fs:/CARD/.system
+0x00471D28 [ASCII] mmi_if_atsync_phb_query_storage_ind: MAE_CurrentShell NULL
+0x00471D64 [ASCII] mmi_if_atsync_phb_query_storage_ind: pData NULL
+0x00471D94 [ASCII] mmi_if_atsync_phb_query_storage_ind: Failed to allocate memory
+0x00471DE4 [ASCII] mmi_if_atsync_phb_query_storage_rsp: Out of memory!
+0x00471F28 [ASCII] mmi_if_atsync_phb_set_storage_ind: MAE_CurrentShell NULL
+0x00471F64 [ASCII] mmi_if_atsync_phb_set_storage_ind: pData NULL
+0x00471F94 [ASCII] mmi_if_atsync_phb_set_storage_ind: Failed to allocate memory
+0x00471FE4 [ASCII] mmi_if_atsync_phb_set_storage_rsp: Out of memory!
+0x004815A4 [ASCII] java/lang/NullPointerException
+0x004960AE [UTF16LE] dInstall
+0x0049650C [ASCII] Java: Java MIDlet is installed successfully
+0x00496538 [ASCII] Java: Java MIDlet is removed successfully
+0x004969D4 [ASCII] SrvFstreamSeek Fail
+0x004969E8 [ASCII] SrvFstreamSyncRead Fail
+0x00496E38 [ASCII] [_JavaAmsCreateBGRadioSelectWnd] VtmCreatePopUpSelect() failed
+0x00496EA0 [ASCII] JAVA Run AP suiteId:%d midletId:%d
+0x00497120 [ASCII] [JAVAAMSAPP] SrvJavaAmsInstallMidletReq() failed
+0x00497154 [ASCII] [JAVAAMSAPP] _JavaAmsApp_CreateDialog() failed
+0x0049719C [ASCII] [JAVAAMSAPP] SrvJavaAmsRstNetProfileReq() failed
+0x004971D8 [ASCII] [JAVAAMSAPP] SrvJavaAmsRemoveSuiteReq() failed
+0x00497AC4 [ASCII] [JAVAAMSAPP] WdgMenuDeregisterSoftkeyActCb() failed
+0x00497EE8 [ASCII] [_JavaAmsCreateShowListWnd] VtmCreateMenu() failed
+0x00497F20 [ASCII] [JAVAAMSAPP] WdgMenuRegisterSoftkeyActCb() failed
+0x00497F7C [ASCII] [JAVAAMSAPP] SrvJavaAmsGetSuiteCountReq() failed
+0x00498218 [ASCII] [JAVAAMSAPP] SrvAccessoryGetDeviceStatus() failed
+0x00498250 [ASCII] [JAVAAMSAPP] SrvUsbGetStatus() failed
+0x0049827C [ASCII] [JAVAAMSAPP] SrvUsbSetStatusChangedCB() failed
+0x004982AC [ASCII] [JAVAAMSAPP] ArrayNew():pMIDletSuiteList failed
+0x004982E0 [ASCII] [JAVAAMSAPP] ArrayNew():pMIDletList failed
+0x004986F8 [ASCII] JAVA exits OK
+0x004D9578 [ASCII] Storage:%d
+0x004DFDA0 [ASCII] Camera setting: Storage
+0x004FCC6C [UTF16LE] DownloadUrlToStorage
+0x004FCC98 [UTF16LE] StorageType
+0x00520A48 [UTF16LE] fs:/PHON/.system
+0x00520A70 [UTF16LE] fs:/PHON/.system/WapExplorer/
+0x005A0DD4 [ASCII] [hfp-%s]: no scn installed for profile %s
+0x005A0E0C [ASCII] [hfp-%s]: w4_connect installed
+0x005EA55E [UTF16LE] >.system/MMS
+0x00617DA8 [ASCII] /NAND/Download
+0x00617DB8 [UTF16LE] /NAND/Download
+0x0062920C [UTF16LE] fs:/CARD/.system/log_input.txt
+0x0065330C [UTF16LE] Install
+0x00654348 [UTF16LE] fs:/CARD/.system/log_input.txt
+0x0065472E [UTF16LE] zfs:/CARD/.system/RAI_Dbg
+0x006553C0 [UTF16LE] Set JAVA filter
+0x00656220 [UTF16LE] JAVA test
+0x00656C50 [ASCII] NativeGameSetWdgImgFromPack  SrvFstreamSyncRead head fail
+0x00656C90 [ASCII] NativeGameSetWdgImgFromPack  SrvFstreamSeek head fail
+0x00656F64 [ASCII] NativeGameSetWdgImgFromPack  SrvFstreamSyncRead id fail
+0x00656F9C [ASCII] NativeGameSetWdgImgFromPack  SrvFstreamSyncRead num fail
+0x00656FFC [ASCII] NativeGameSetWdgImgFromPack  SrvFstreamSyncRead pitem fail
+0x00676CC0 [UTF16LE] /NAND/.system/appdb/
+0x00676CEC [ASCII] java.config
+0x00676CF6 [UTF16LE] g/CARD/.system/appdb/
+0x00693730 [UTF16LE] fs:/CARD/Display_Java.bmp
+0x006B97F4 [ASCII] javascript
+0x006E8E80 [UTF16LE] .system/MMS
+0x006EC560 [UTF16LE] .system/MMS
+0x00713864 [UTF16LE] fs:/CARD/.system/Wallpaper/
+0x007382F0 [UTF16LE] fs:/CARD/.system/Wallpaper/
+0x0075DB34 [UTF16LE] fs:/PHON/HamsterFight/img.dat
+0x00771C18 [ASCII] application/java-vm
+0x007BF728 [ASCII] [_amsSaveProfile] ERROR: opening profile file
+0x007BF758 [ASCII] [_amsSaveProfile]seek handle:%d pos:%d
+0x007BF780 [ASCII] [_amsSaveProfile]write handle:%d val:%s
+0x007BF7A8 [ASCII] [_amsLoadProfile] Enter
+0x007BF7C0 [ASCII] [_amsLoadProfile] ERROR: opening profile file
+0x007BF7F0 [ASCII] [_amsLoadProfile] ERROR: No field be recorded
+0x007BF820 [ASCII] [_amsLoadProfile] Exit successfully
+0x007BF9CC [ASCII] suites.utf
+0x007BF9E0 [ASCII] [loadSuiteList] try to load suites.utf from path : %s
+0x007BFA18 [ASCII] [loadSuiteList] suites.utf not found. first run?
+0x007BFA4C [ASCII] [loadSuiteList] suites.utf is on the disk
+0x007BFA78 [ASCII] [loadSuiteList] ERROR: opening suites.idx
+0x007BFAA4 [ASCII] [loadSuiteList] ERROR: getting size of suites.utf
+0x007BFEBC [ASCII] [loadSuiteList] %s size = %d
+0x007BFEDC [ASCII] [loadSuiteList] ERROR: out of memory
+0x007BFF04 [ASCII] [loadSuiteList] ERROR: can not read file suites.utf
+0x007BFF3C [ASCII] [loadSuiteList] entry %s
+0x007BFF60 [ASCII] [addToSuiteList] new entry %s
+0x007BFF80 [ASCII] [ams] addToSuiteList failed as empty suite list
+0x007BFFB0 [ASCII] [AMS: SUITEID SEQUENCE OVERFLOW]
+0x007BFFD4 [ASCII] [ams] addToSuiteList failed to malloc new ID
+0x007C042C [ASCII] [ams] addToSuiteList failed to malloc new newSuiteId
+0x007C0854 [ASCII] [amsGetMidletList] ERROR: AMS_BUFFER_TOO_SMALL
+0x007C0884 [ASCII] [amsGetMidletList] AMS_BUFFER_TOO_SMALL
+0x007C08B0 [ASCII] _s.jad
+0x007C08B8 [ASCII] [amsGetMidletInfo] %s size: %d
+0x007C08D8 [ASCII] [amsGetMidletInfo] read jad error!
+0x007C08FC [ASCII] [amsGetMidletInfo] ERROR: jadParseData() returned %d
+0x007C0934 [ASCII] [amsGetSuiteSize] ERROR: id is NULL
+0x007C0D1C [ASCII] [amsGetSuiteSize] ascId = %s
+0x007C0D40 [ASCII] [amsGetSuiteSize] prefix = "%s"
+0x007C0D64 [ASCII] [amsGetSuiteSize] ams_getStorageSize error
+0x007C0D90 [ASCII] [amsGetSuiteSize] suite size: %d
+0x007C11EC [ASCII] [amsVerifyMidletInfo] hash %d
+0x007C1238 [ASCII] _s.enc
+0x007C1258 [ASCII] _s.jar
+0x007C1260 [ASCII] [amsInstallMidlet] OTA_SUCCESS #2;
+0x007C1390 [ASCII] [amsInstallMidlet] OTA_INVALID_JAR
+0x007C13B4 [ASCII] [amsInstallMidlet] OTA_IO_CONFLICT
+0x007C13DC [ASCII] [amsSuiteCheck] begin to check the midlet information
+0x007C1414 [ASCII] [amsSuiteCheck] ERROR : Open jad file failed
+0x007C1444 [ASCII] [amsSuiteCheck] ERROR : Length of jad file is negative
+0x007C147C [ASCII] [amsSuiteCheck] ERROR : Allocate memory space failed
+0x007C1540 [ASCII] [amsSuiteCheck] ERROR: Failed to parse jad file
+0x007C1570 [ASCII] [amsSuiteCheck] ERROR: Failed to parse size of JAR file
+0x007C15A8 [ASCII] [amsSuiteCheck] ERROR: Failed to load jar file
+0x007C15DC [ASCII] [amsSuiteCheck] ERROR: Failed to load MF file within jar
+0x007C1618 [ASCII] [amsSuiteCheck] ERROR: Failed to parse MF file within jar
+0x007C16C4 [ASCII] [amsInstallJar] ERROR : failed to open jar file from FS
+0x007C16FC [ASCII] [amsInstallJar] ERROR : failed to get jar file length
+0x007C1734 [ASCII] [amsSuiteCheck] ERROR: jar is too large.
+0x007C1760 [ASCII] [amsSuiteCheck] ERROR: no midlet suite presents
+0x007C1790 [ASCII] [amsInstallJad] ERROR : JAD descriptor is invalid
+0x007C195C [ASCII] [amsSuiteCheck] ERROR: Empty properties within MF file
+0x007C199C [ASCII] [amsSuiteCheck] The midlet has never been installed before
+0x007C19D8 [ASCII] [amsSuiteCheck] ERROR: Failed to load suite list
+0x007C1A0C [ASCII] [amsSuiteCheck] ERROR: Failed to allocate memory for suite list
+0x007C1A50 [ASCII] [amsSuiteCheck] ERROR: Midlet name mismatches
+0x007C1BB4 [ASCII] [amsSuiteCheck] The midlet has never been installed before2
+0x007C1BF0 [ASCII] [amsInstallJar] begin to install from jar %s
+0x007C1C20 [ASCII] [amsInstallJar] Invalid JAR file
+0x007C1C44 [ASCII] [amsInstallJar] Remove the previous version first
+0x007C1C90 [ASCII] [amsInstallJar] ERROR : OOM thrown while load suite lost
+0x007C1ECC [ASCII] [amsInstallJar] ERROR : IO exception when record manifest
+0x007C1F18 [ASCII] [amsInstallJar] ERROR : IO exception when record JAD file
+0x007C1F5C [ASCII] [amsInstallJar] ERROR : IO exception when record midlet list
+0x007C1FB4 [ASCII] [amsInstallJar] SUCCEED to install from JAR
+0x007C206C [ASCII] [amsInstallJad] Begin to install midlet from descriptor %s
+0x007C20AC [ASCII] [amsInstallJad] ERROR : JAD file does not exist
+0x007C20DC [ASCII] [amsInstallJad] ERROR : Failed to open JAD file
+0x007C210C [ASCII] [amsInstallJad] ERROR : Failed to get JAD file size
+0x007C2144 [ASCII] [amsInstallJad] ERROR : Failed to parse JAD content
+0x007C2514 [ASCII] [amsInstallJad] ERROR : IO exception when record JAD file
+0x007C2558 [ASCII] [amsInstallJad] ERROR : parse jar path failed
+0x007C258C [ASCII] [amsInstallJad] SUCCEED to install from descriptor
+0x007C25D4 [ASCII] JList_GetCurMidlet count:%d
+0x007C25F0 [ASCII] [ams_getStorageSize] %s's size = %d
+0x007D1E08 [ASCII] java/lang/IllegalAccessException
+0x007D2550 [ASCII] _s.jad
+0x007E55A8 [ASCII] java_ams.c java_ams_initial_rsp OK
+0x007E55CC [ASCII] java_ams_initial_req init ok
+0x007E55EC [ASCII] java_ams_getSuiteCount_req:%d
+0x007E5610 [ASCII] NCCJava_checkSuiteVersion: malloc temp buf failed
+0x007E5644 [ASCII] [NCCJava_installMIDlet] BEGIN to install midlet
+0x007E5680 [ASCII] [NCCJava_installMIDlet] Get storage name as %s
+0x007E56B0 [ASCII] [NCCJava_installMIDlet] Install from JAD
+0x007E5A64 [ASCII] [NCCJava_installMIDlet] Install from JAR
+0x007E5A90 [ASCII] [NCCJava_installMIDlet] Get install(update) result as %d
+0x007E5AD8 [ASCII] JAVA_AMS: get suite suite RSP:%d index:%d
+0x007E5B04 [ASCII] java_ams_getSuiteInfo_req: get info success ret:%d
+0x007E5D0C [ASCII] java_ams_launchMidlet_rsp :suite index%d
+0x007E5D38 [ASCII] java_ams_launchMidlet_req suite_index:%d
+0x007E5D64 [ASCII] java_ams_checkMidletSuite_rsp :return %d
+0x007E5D90 [ASCII] java_ams.c java_ams_checkMidletSuite_req
+0x007E5DBC [ASCII] [NCCJava_checkSuiteVersion] returns %d
+0x007E5DE8 [ASCII] java_ams_installMidletSuite_rsp retCode:%d, suiteID :%d
+0x007E5FC0 [ASCII] java_ams_cancelinstallSuite_req
+0x007E5FE0 [ASCII] java_ams_reset_netprofile_rsp
+0x007E6000 [ASCII] java_ams_reset_netProfile_req
+0x007F3EF4 [ASCII] build\8533n_71623d\out\cfg_storageread.c
+0x007FD534 [ASCII] Ljava/lang/String;
+0x007FD548 [ASCII] midletClassName
+0x007FD558 [ASCII] midletName
+0x007FD574 [ASCII] suiteStorageName
+0x007FD588 [ASCII] suiteURL
+0x007FD5B8 [ASCII] midletNumber
+0x007FD81C [ASCII] java/lang/OutOfMemoryError
+0x007FD890 [ASCII] midletName
+0x007FD8B0 [ASCII] suiteURL
+0x007FF724 [ASCII] Out of Memory: could not allocate midlet number
+0x007FFA00 [ASCII] -install
+0x007FFA38 [ASCII] -storageNames
+0x007FFA94 [ASCII] Out of Memory: could not allocate midlet name
+0x007FFAC4 [ASCII] Must specify URL of .jad file
+0x007FFE28 [ASCII] javax
+0x007FFE7C [ASCII] /midlet
+0x007FFE84 [ASCII] /midletsuite
+0x00800074 [ASCII] Error getting storage name: invalid number format
+0x008000B0 [ASCII] Error getting storage name: %s
+0x008000D0 [ASCII] Could not find suite number %d.
+0x00800DA4 [ASCII] =>java_http_create_datalink: no service SIM active now
+0x00800E10 [ASCII] =>java_http_create_datalink: SIM ID=%d
+0x00801010 [ASCII] Java jnet.c jnet_initNetwork reset current sim card is %d
+0x008011F0 [ASCII] [JAVA]:Get profile failed, return value is %d.
+0x0080125C [ASCII] [JAVA NET]: jnet_getHost_CB successfully!!
+0x00801288 [ASCII] [JAVA NET]: Transaction ID conflict, error happen!!
+0x008012BC [ASCII] [JAVA NET]: jnet_getIpByName(%s)
+0x008013A0 [ASCII] [JAVA NET]: Have got the IP=%08x
+0x008013CC [ASCII] [JAVA NET]: Waiting for the DNS answer!!
+0x008013F8 [ASCII] [JAVA NET]: jnet_getIpByName, blocking!!
+0x00801424 [ASCII] [JAVA NET]: jnet_getIpByName, init!!
+0x00801454 [ASCII] [JAVA NET]: ven_socket_gethostbyname failed!!!
+0x00801484 [ASCII] [JAVA NET]: Get host by name error!!
+0x0080159C [ASCII] [JAVA NET]: jnet_getIpByName, Fatal Error!!
+0x008015CC [ASCII] [JAVA NET]: jnet_socket
+0x008015E8 [ASCII] [JAVA NET]: max socket number reached!!
+0x00801610 [ASCII] [JAVA NET]: not enough mem to allocate socket!!
+0x00801644 [ASCII] Java jnet.c jnet_socket ID:%d
+0x00801664 [ASCII] Java jnet create socket count:%d
+0x00801688 [ASCII] Java jnet.c jnet_socket Create socket Failed
+0x008017C4 [ASCII] [JAVA NET]: jnet_notify_status(%08x)
+0x008017F0 [ASCII] [JAVA NET]: jnet conn call back, s=%08x, ret=%d
+0x00801820 [ASCII] [JAVA NET]: jnet send call back, s=%08x, ret=%d
+0x00801854 [ASCII] [JAVA NET]: jnet_recv, receiving done!!
+0x0080187C [ASCII] [JAVA NET]: socket %08x suspended successfully
+0x008018AC [ASCII] [JAVA NET]: socket %08x suspend failed, data will lose
+0x008018E4 [ASCII] [JAVA NET]: socket[%08x] len=%d, copylen=%d
+0x00801A1C [ASCII] [JAVA NET]: jnet_tcpConnect(%08x, %08x, %d)!!
+0x00801A50 [ASCII] [JAVA NET]: invalid java_socket handle.
+0x00801A80 [ASCII] [JAVA NET]: jnet_tcpConnect: connect timeout
+0x00801AB4 [ASCII] [JAVA NET]: reg recv error, connect failed
+0x00801AE0 [ASCII] [JAVA NET]: jnet_tcpConnect: connect failed
+0x00801B10 [ASCII] [JAVA_NET]: jnet_tcpConnect unknown connection status: %d
+0x00801CD0 [ASCII] [JAVA NET]: jnet_recv, s=%08x, buf=%x, len=%d
+0x00801D04 [ASCII] JAVA jnet_recv got buf: wantlen:%d got:%d rest:%d totalcount:%d
+0x00801D64 [ASCII] JAVA jnet_recv: ERROR
+0x00801D80 [ASCII] JAVA jnet_recvConnect: recv timeout
+0x00801DA4 [ASCII] [JAVA NET]: s=%08x, buf=%x, len=%d
+0x00801DC8 [ASCII] [JAVA NET]: Invalid sending buffer!!
+0x00801EB4 [ASCII] JAVA jnet_send: send timeout
+0x00801ED4 [ASCII] JAVA jnet_send success :len %d
+0x00801EF4 [ASCII] JAVA jnet_send failed len:%d
+0x00801F14 [ASCII] JAVA jnet_send Init len:%d
+0x00801F30 [ASCII] [JAVA NET]: No enough MEM to send request!!
+0x00801F60 [ASCII] JAVA jnet_send failed in first time ret:%d
+0x00801F8C [ASCII] [JAVA NET] jnet_send unknown send status: %d
+0x008020C4 [ASCII] ==>Java jnet close socket id:%08x activecount:%d
+0x008020F8 [ASCII] JAVA jnet_closesocket failed.: ret: %d
+0x00802120 [ASCII] <<==JAVA jnet_closesocket: activecount=%d
+0x008107AC [ASCII] javax.microedition.io.Connector.protocolpath
+0x00810878 [ASCII] microedition.encoding
+0x00810C60 [ASCII] java/lang/OutOfMemoryError
+0x0081D754 [ASCII] /CARD/.system/WapExplorer/Browser/cert/sign.crt
+0x0081D784 [ASCII] /CARD/.system/WapExplorer/Browser/cert/crlfile.crt
+0x00820898 [ASCII] java/lang/IllegalArgumentException
+0x00821344 [ASCII] ensureStorageRoot
+0x00821358 [ASCII] storageOpen()
+0x00821368 [ASCII] storageClose()
+0x00821378 [ASCII] storageRead()
+0x00821388 [ASCII] storageWrite()
+0x00821398 [ASCII] storage full
+0x008213A8 [ASCII] storagePosition()
+0x008213BC [ASCII] storageSizeOf()
+0x00821538 [ASCII] storageTruncate()
+0x00821554 [ASCII] storageDeleteFile
+0x00821590 [ASCII] storageRename
+0x0082B2D0 [ASCII] FATAL: java heap corrupted??
+0x0082B2F0 [ASCII] Java heap corrupted
+0x0082D60A [ASCII] :haMS
+0x00846D3C [ASCII] trustedmidlet_icon.png
+0x00846FF8 [ASCII] javax/microedition/io/ConnectionNotFoundException
+0x00847030 [ASCII] java/io/IOException
+0x0084769C [ASCII] javax/microedition/lcdui/Command
+0x008476C4 [ASCII] Ljava/lang/String;
+0x00847A2C [ASCII] java/lang/OutOfMemoryError
+0x00848278 [ASCII] java/lang/NullPointerException
+0x00848298 [ASCII] java/lang/IllegalArgumentException
+0x008482BC [ASCII] java/lang/StringIndexOutOfBoundsException
+0x008486D0 [ASCII] java/lang/ArrayIndexOutOfBoundsException
+0x00848B30 [ASCII] Ljavax/microedition/lcdui/Image;
+0x0084A3F0 [ASCII] java/lang/OutOfMemoryError
+0x0084A40C [ASCII] java/io/IOException
+0x0084A720 [ASCII] java/io/IOException
+0x0084AA98 [ASCII] java/lang/IllegalArugmentException
+0x0084AADC [ASCII] java/lang/OutOfMemoryError
+0x0084AAF8 [ASCII] java/io/InterruptedIOException
+0x0084AB38 [ASCII] java/io/IOException
+0x00863FAC [ASCII] java/lang/OutOfMemoryError
+0x00863FE4 [ASCII] java/io/IOException
+0x008642F0 [ASCII] java/lang/OutOfMemoryError
+0x0086430C [ASCII] java/io/IOException
+0x00864A20 [ASCII] java/lang/Error
+0x00865498 [ASCII] java/lang/OutOfMemoryError
+0x00865C30 [ASCII] java/lang/IllegalArugmentException
+0x00865C60 [ASCII] java/lang/OutOfMemoryError
+0x0086620C [ASCII] java/io/IOException
+0x00882F20 [ASCII] java/io/IOException
+0x0093EAD0 [UTF16LE] zero valueAbout Wireless ProfileCertificate has unrecognized critical extensionsNo display created for given MIDletAprilCBSAddress_s.mfVolumeControlImpl.getLevel() 200 The permission check was bypassedDefaultEventHandler: CommandEvent:december///.A s
+0x0093EF12 [UTF16LE] file:///NAND/Video/Can not receive from client only connection.This time. Ask me next time._Readercan't open InputStream with Assertion botch: doubleToBigInt(0.0)RemoveProxy-The JAD matches a version of a suite already installed.Base64 string length 
+0x0093F616 [UTF16LE] %1 wants to use CBS information. This will require the use of airtime which may cost you money. Is this OK? (%3)Can not start: error finding first fit blockstarted, MIDlet-1It is a directory or the file does not exist%1 wants to use SMS information. 
+0x0093FAD4 [UTF16LE] .dbinvalid chunk size number formatfile:///NAND/Pictures/*.fileconn.dir.roots.nameschunkedWrite attempted after request finishedNull output streamAssertion botch: negative result of subtractcom.sun.midp.midletsuite.amsshutdownOutput0 not implemented!
+0x0093FCF2 [UTF16LE] SegmentsInstantiationException Dateaudio/midi): Negative initial size: _fileName is an invalid filename for the platform  instance failedWriting to closed ByteArrayOutputStreamCorrupt policy fileFileConnectionImpl.canWrite() with fail to read from so
+0x009401CC [UTF16LE] negative shift countcom.sun.midp.lcdui.i18n.ResourcegetSockOpt0 not implemented!javax.wireless.messaging.cbs.receivestoppedAtTime
+0x009402D4 [UTF16LE] Unsupported sizeconnection already openfree record failedRoot CA's public key is expiredfebruaryOK to Send SMS Information?MIDlet-<date/time>OK to Send Information?content-lengthCan %1 directly connect to a computer to exchange information? This may 
+0x00940A78 [UTF16LE] date_up.pngInvalid character in Base64 stringdomainThe storage name for the MIDlet suite was not given.ProtocolGauge contained within an AlertvendorName and suiteName must be non null** Error installing suite: Invalid line styleThe content provider c
+0x00941182 [UTF16LE] MIDlet class(s) could not be accessed: Certificate is not yet validRecordStoreFileIndex: WARNING: malformed string for deescapeJAR server not found: .classjavax.microedition.io.Connector.commMIDlet-Namenovember<
+0x00941698 [UTF16LE] Invalid character in filter.Cannot read on client connectionJuneNo host specifiedFileConnectionImpl.directorySize(BackbinaryWarningrecordStartedfileconn.dir.photos.nameUTC+8_s.encS,com.sun.midp.lcdui.AutomatedEventHandlerException:
+0x00941BB8 [UTF16LE] Julymicroedition.encodingR,com.sun.cldc.i18n.uclc.DefaultCaseConverter
+0x00941E48 [UTF16LE] Current state is STARTED or CLOSED.Assertion botch: excessivly large digit javax.microedition.io.PushRegistryUnknown VM Event: noonPMOK to Receive SMS Information?There is insuffient storage to install this suite%1
+0x00942040 [UTF16LE] unexpected end of streamkey can't be nullFileConnectionImpl.getName() return checkbox_off.pngsessiondurationUpdatedPlease quit the MIDlet manually, wap browser will be executed after Java exited.utc
+0x009421D0 [UTF16LE] time=microedition.configurationThe MIDlet has run out of memoryClass not a MIDletCertificate does not contain the correct site nameUser has chosen NEVER to use network at last operation.
+0x00942346 [UTF16LE] If network is needed this time, please try to exit JAVA and choose 'Network setting reset' at 'OPTIONS' menucom.sun.midp.io.http.outputBufferSizeAboutThe file or directory does not exist.connectionMaybe. Ask me each time.Certificate was issued by an 
+0x00942876 [UTF16LE] Error occurred while dispatching event:error moving record datacom.sun.midp.io.http.max_persistent_connectionsFileSystemRegistry.removeFileSystemListener(The file exists.gauge_leftarrow.pngMIDlet instance(s) could not be created: _s_p.iidbindexrespon
+0x00942C8C [UTF16LE] FileConnectionImpl.setWritable(No Chunk Sizeinvalid port formatMIDlet class(s) not found: Non-positive period.The construction of recordErrorSettingswednesdayFileConnectionImpl.list() with socketAssertion botch: carry out of *10 modecom.sun.midp.lcdu
+0x00942FF8 [UTF16LE] FileConnectionImpl.setReadable(com.sun.midp.io.j2me.sms.SmsImpl_s.jadWedCan %1 use airtime to RECEIVE information? This may cost you money.Java will execute the platform request after the current MIDlet exit!Assertion botch: value too bigtrustedmidle
+0x0094320E [UTF16LE] Incomplete URI escape sequence in The connection's target has a trailing "/"Choose One:multiple pointsHashtableEnumeratorAddressISO-8859-1JAD did not have the correct media type, it had CN=JAD server not foundIllegal end day of week in month date_lef
+0x009436B4 [UTF16LE] Connection in push attribute is not supported: .jtsGB2312com.sun.midp.lcdui.AWTEventHandlermicroedition.platformcopyrightOctNot this time. Ask me next time.Illegal instantiation of the InstallerEither the configuration or profile is not supported.
+0x009438F4 [UTF16LE] Interrupted while trying to ask the user permissionThere is already a MIDlet Suite scheduled.
+0x009439B2 [UTF16LE] [media] Get EOM signalcom.sun.midp.midlet.schedulercannot find record store filejavax.wireless.messaging.sms.sendbad perm level: FileConnectionImpl.openInputStream() with Monillegal value foundcloseUnknown IOErrorpstFileConnectionImpl.list(response e
+0x00943DB8 [UTF16LE] interface  -> javax.microedition.media.control.SenderAddressThe target isn't a directory or filename in invalid for the platform
+0x00943EEA [UTF16LE] suites.utf
+0x00944232 [UTF16LE] fileconn.dir.recordingsMarchThe suite is not authorized for does not exist.VectorEnumeratorFileInputStream.available()com.sun.midp.io.http.force_non_persistenthttpWRITE not supported.popup_arrow.pngFileConnectionImpl.setHidden(Thread- is not a direct
+0x00944430 [UTF16LE] Cannot find case converter class com.sun.midp.midlet.SelectorLATINut
+0x009445EA [UTF16LE] FileConnectionImpl.FileConnectionImpl(Illegal Capacity: Decemberjavax.microedition.io.Connector.datagramreceiver0000
+0x009446E6 [UTF16LE] javax.microedition.io.Connector.protocolpathfilter is null
+0x0094479A [UTF16LE] javax.microedition.io.Connector.datagramAssertion botch: longValue confused greater than Character.MAX_RADIX<time>Certificate in a chain was not issued by the next authority in the chainPort not allowedcom.sun.midp.io.j2me.sms.CBSPortContains path sp
+0x00944BC2 [UTF16LE] (%3)IOException writing writer run_by_class_storage_Invalid character in the URL.sslcom.sun.midp<
+0x00944C88 [UTF16LE] >%1 wants to visit %2 with invalid network configuration, please exit application and set network within OPTION menu when connection failedOK to Start-up Periodically?com.sun.cldc.util.j2me.CalendarImpl/.//..ProfiledeleteRecordStore failedinput stora
+0x0094522E [UTF16LE] Illegal modeThe class in push attribute not in a MIDlet-<n> attribute: JavaWithout port number! Binary message cannot be sent to the end user. has expired.IS_LATINradio_off.pngCould not find default timezone
+0x009453E4 [UTF16LE] Pictures/InterruptedException1234567890Unknown reason (JAD did not have a media typeTo work properly, %1 will need to start itself periodically to receive information. If there is already an application running, %1 will interrupt and that application
+0x009456EA [UTF16LE] Can &1 Interrupt?mdtsizeChangedA required suite ID attribute in the JAR manifest do not match the one in the JADerror closing .db fileThe application is an newer version of one that is already installederror writing record datapmThe Jar downloaded wa
+0x00945968 [UTF16LE] invalid byte CARD_JAVA/Illegal start day of week in month com.sun.cldc.ioIllegal start time Illegal DST savingsSaved!%1 wants to send SMS information. This will require the use of airtime which may cost you money. Is this OK? (%3)FileConnectionImpl.f
+0x009460E8 [UTF16LE] Port rangeFebruary** Error installing suite (Cannot access: audio/mpegIllegal end month FileConnectionImpl.exists() with <date>javax.microedition.io.Connector.serversocketerror updating file after record deletionALLOC ERR Fail to writeThe public key 
+0x0094651C [UTF16LE] skip value is negativeMayWebsiteMarmid.octobercontent-typeContent-Typejavax.microedition.io.Connector.socketoneshot less than Character.MIN_RADIX
+0x00946B82 [UTF16LE] UCB_BASIC_LATINThe suite is in confict with another application listening for network data on  already existsjavax.wireless.messaging.sms.receiveException caught in main:Record Read IncompleteFileInputStream.FileInputStream(name)Certificate object do
+0x00946DAE [UTF16LE] FriOK to Receive Information?Intermediate certificate in the chain does not have the authority to be an intermediate CA: augustdevice://tonecom.sun.midp.lcdui.inputMethodHandlerIOException reading reader The JAD to be installed is for an existing sui
+0x009470D8 [UTF16LE] Third-party software, including font technology, is copyrighted and licensed from Sun suppliers.  Sun, Sun Microsystems, the Sun logo, J2ME, the Java Coffee Cup logo, and  Java are trademarks or registered trademarks of Sun Microsystems, Inc. in the 
+0x009477C4 [UTF16LE] javax.microedition.io.Connector.sslremoveFreeBlock block not found does not yet existVolumeControlImpl._isMuted()mark() not supportedjavax.microedition.media.control.ToneControlAugReason = Missing protocol separator.Negative delay.aliasCertificate is
+0x00947BE8 [UTF16LE] error opening record store fileFileConnectionImpl.mkdir() with com.sun.midp.io.http.proxyfile://localhost/file://127.0.0.1/ticker_border.pngdeleteRecordStore error: file Text-EncodingCannot update a trusted suite with an untrusted versionGMT+08:00aud
+0x009480C0 [UTF16LE] platform request, show message error!Invalid path: A required attribute is missingjavax.microedition.io.Connector.http0000 00 00 00 00 00 +0000type=errorunknown
+0x0094829E [UTF16LE] !no more output streams availablelink_horizontal.pngcom.sun.midp.io.http.persistent_connection_linger_timemap entry:
+0x0094838C [UTF16LE] com.sun.midp.io.j2me.sms.Impl@Unable to create MIDlet ?=<:textaddr=malformed header field cbsCan't rename with FileSystemRegistry.listRoots()file:0transfer-encodingHTTP/1.1/SkipHTTP/1.0.amAprOK to Use SMS Information?Copyright (c) 2000 Sun Microsyste
+0x0094882A [UTF16LE] javax.microedition.io.Connector.smsmarch
+0x0094E504 [ASCII] MIDlet
+0x0094E7DC [ASCII] javax/microedition/midlet
+0x0094E800 [ASCII] javax/microedition/media
+0x0094E950 [ASCII] MIDletState
+0x0094EB20 [ASCII] pauseMIDlet
+0x0094ED00 [ASCII] javax/microedition/pki
+0x0094ED4C [ASCII] javax/microedition/io
+0x0094ED7C [ASCII] javax/microedition/rms
+0x0094ED9C [ASCII] destroyMIDlet
+0x0094EED8 [ASCII] getCipherSuite
+0x0094EF84 [ASCII] Storage
+0x0094EFFC [ASCII] java/util
+0x0094F190 [ASCII] toJavaString
+0x0094F1FC [ASCII] java/io
+0x0094F730 [ASCII] java/lang
+0x0094F9E4 [ASCII] startMIDlet
+0x0094FF48 [ASCII] javax/microedition/lcdui
+0x009500E8 [ASCII] suiteHasRmsData
+0x009505F0 [ASCII] javax/microedition/io/file
+0x00951358 [ASCII] MIDletProxy
+0x00951528 [ASCII] getMIDletSuite
+0x00951930 [ASCII] scheduleMIDlet
+0x00951CEC [ASCII] javax/wireless/messaging
+0x009521A0 [ASCII] maxIStreams
+0x00952B00 [ASCII] iStreams
+0x00952F50 [ASCII] midlets
+0x009538F8 [ASCII] javax/microedition/lcdui/game
+0x00953E58 [ASCII] selectedMidlet
+0x00953E70 [ASCII] initStorageRoot
+0x00954634 [ASCII] oStreams
+0x009549F4 [ASCII] addMIDlet
+0x0095519C [ASCII] allocateNewRecordStorage
+0x009556D0 [ASCII] readMIDletInfo
+0x009557C0 [ASCII] FileSystemListener
+0x009559F8 [ASCII] DEV_STORAGE_NAME
+0x00955CD8 [ASCII] midletSuite
+0x00955EB0 [ASCII] availableStorage
+0x00956154 [ASCII] removeRecordStoresForSuite
+0x0095619C [ASCII] storageRoot
+0x00956668 [ASCII] maxOStreams
+0x009567B4 [ASCII] removeFileSystemListener
+0x00956978 [ASCII] com/sun/midp/midletsuite
+0x0095699C [ASCII] getStoragePath
+0x00957008 [ASCII] addFileSystemListener
+0x0095730C [ASCII] ALREADY_INSTALLED
+0x00957328 [ASCII] com/miniJava/j2me/mmedia
+0x00957664 [ASCII] readJavaFormatString
+0x00957B5C [ASCII] javax/microedition/media/control
+0x00957D4C [ASCII] getStorageRoot
+0x00957EA0 [ASCII] listRecordStoresForSuite
+0x00958170 [ASCII] toJavaFormatString
+0x009584E0 [ASCII] findMIDletByClass
+0x00958B34 [ASCII] MIDletStateChangeException
+0x00958CE4 [ASCII] com/sun/midp/midlet
+0x009590A0 [ASCII] nmidlets
+0x0095979C [ASCII] MISSING_SUITE_NAME
+0x00959B98 [ASCII] getMIDletSuiteName
+0x00959C04 [ASCII] nextMidletToRun
+0x00959CD4 [ASCII] myStoragePath
+0x00959E04 [ASCII] SUITE_NAME_MISMATCH
+0x00959EA0 [ASCII] deleteStorage
+0x00959F54 [ASCII] MIDletSuite
+0x0095A678 [ASCII] getInitialMIDletClassname
+0x0095A928 [ASCII] getSuiteName
+0x0095AB80 [ASCII] renameStorage
+0x0095B0E0 [ASCII] INSUFFICIENT_STORAGE
+0x0095B478 [ASCII] saveSuiteInfoTable
+0x0095B5BC [ASCII] MIDletInfo
+0x0095B6BC [ASCII] getInstallerCommon
+0x0095B9FC [ASCII] saveSuiteSettings
+0x0095BB90 [ASCII] MIDletSuiteImpl
+0x0095BCCC [ASCII] storageExists
+0x0095BCE4 [ASCII] FileSystemRegistry
+0x0095BECC [ASCII] getNextMIDletToRun
+0x0095C3F8 [ASCII] getNumberOfMIDlets
+0x0095C6B4 [ASCII] GNL_NUM_PARAMS
+0x0095C6F0 [ASCII] createMIDlet
+0x0095CA88 [ASCII] SUITE_NAME_PROP
+0x0095CE08 [ASCII] InputStorage
+0x0095CEC8 [ASCII] countMIDlets
+0x0095CF74 [ASCII] MIDletEventListener
+0x0095D0B8 [ASCII] com/sun/midp/io/j2me/storage
+0x0095D690 [ASCII] myInstaller
+0x0095D6C4 [ASCII] MIDletStateMap
+0x0095E204 [ASCII] midletClassName
+0x0095E3FC [ASCII] SUITE_LIST_FILENAME
+0x0095E524 [ASCII] getStorageName
+0x0095E824 [ASCII] installer
+0x0095EA1C [ASCII] suiteStorageName
+0x0095ED1C [ASCII] suiteURL
+0x0095EE54 [ASCII] suiteName
+0x0095EEE8 [ASCII] getTrustedMIDletIcon
+0x0095EF50 [ASCII] getSuiteInfoTable
+0x0095EF6C [ASCII] midletEventListener
+0x0095F29C [ASCII] initialMIDletClassName
+0x0095F468 [ASCII] getPropertiesFromStorage
+0x0095F7E8 [ASCII] getNextMIDletSuiteToRun
+0x0095F950 [ASCII] java/lang/ref
+0x0095F978 [ASCII] MIDletStateMapImpl
+0x0095F9AC [ASCII] getInstaller
+0x0095FA90 [ASCII] suiteExists
+0x0095FCA8 [ASCII] getMidletHash
+0x00960020 [ASCII] getKeyFromStorage
+0x009601F4 [ASCII] midletNumber
+0x00960288 [ASCII] suiteInfoTable
+0x00960438 [ASCII] Installer$MIDletSuiteInfo
+0x00960744 [ASCII] getSuiteHash
+0x0096078C [ASCII] getSuiteNameForInterrupt
+0x00960858 [ASCII] allowedToCreateMIDlet
+0x00960978 [ASCII] storageName
+0x009609A4 [ASCII] MIDLET_SUITE_NOT_FOUND
+0x00960E4C [ASCII] getStorageUsed
+0x009610B0 [ASCII] nextMidletSuiteToRun
+0x00961494 [ASCII] Installer
+0x009617E0 [ASCII] getMIDletClassName
+0x00961AF8 [ASCII] showJavaLogo
+0x00961B84 [ASCII] getMIDlet
+0x00961DD8 [ASCII] midlet
+0x00961F0C [ASCII] makeStorageName
+0x00962044 [ASCII] numberOfMidlets
+0x0096261C [ASCII] createMIDletLock
+0x0096278C [ASCII] midletName
+0x009969E0 [ASCII] MiniJava internal error, Please restart handset and try again!
+0x00996B84 [ASCII] java/lang/ClassNotFoundException
+0x00996BA8 [ASCII] java/lang/NoClassDefFoundError
+0x00996BC8 [ASCII] java/lang/OutOfMemoryError
+0x00996BE4 [ASCII] java/lang/AbstractMethodError
+0x00996C04 [ASCII] java/lang/ClassCircularityError
+0x00996C24 [ASCII] java/lang/ClassFormatError
+0x00996C40 [ASCII] java/lang/IllegalAccessError
+0x00996C60 [ASCII] java/lang/IncompatibleClassChangeError
+0x00996C88 [ASCII] java/lang/InstantiationError
+0x00996CA8 [ASCII] java/lang/NoSuchFieldError
+0x00996CC4 [ASCII] java/lang/NoSuchMethodError
+0x00996CE0 [ASCII] java/lang/VerifyError
+0x00996CF8 [ASCII] java/lang/ArithmeticException
+0x00996D18 [ASCII] java/lang/ArrayIndexOutOfBoundsException
+0x00996D44 [ASCII] java/lang/ArrayStoreException
+0x00996D64 [ASCII] java/lang/ClassCastException
+0x00996D84 [ASCII] java/lang/IllegalAccessException
+0x00996DA8 [ASCII] java/lang/IllegalArgumentException
+0x00996DCC [ASCII] java/lang/IllegalMonitorStateException
+0x00996DF4 [ASCII] java/lang/IllegalThreadStateException
+0x00996E1C [ASCII] java/lang/InstantiationException
+0x00996E40 [ASCII] java/lang/InterruptedException
+0x00996E60 [ASCII] java/lang/NegativeArraySizeException
+0x00996E88 [ASCII] java/lang/NullPointerException
+0x00996EA8 [ASCII] java/lang/StringIndexOutOfBoundsException
+0x00996ED4 [ASCII] java/io/IOException
+0x00996EE8 [ASCII] java/lang/VirtualMachineError
+0x0099759C [ASCII] [NCCJava_installMIDlet] ERROR: Check and create Java storage failed
+0x009975E0 [ASCII] java_ams.c java_ams_installMidletSuite_req  NCCJava_installMIDlet return code :%d index:%d
+0x00997684 [ASCII] =>java_http_create_datalink: ven_setting_getSelectSIM fail: ret=%d
+0x00997710 [ASCII] [JAVA NET]: jnet_recv call back, s=%08x, filllen=%d, bufferlen=%d
+0x00998C20 [ASCII] java_start_watchdog_timer, ven_os_startTimer for 2 sec, watchdog_timeid=%d, ret=%d
+0x0099B9F0 [ASCII] WARNING: Suites.inf corrupted? expected suites number: %d, got, %d
+0x0099BA34 [ASCII] [amsSuiteCheck] ERROR : Unable to reserve enough memory space for suite
+0x0099BA7C [ASCII] [amsInstallJar] ERROR : failed to generate buffer to hold JAR URL
+0x0099BAC0 [ASCII] [amsInstallJar] ERROR : IO exception thrown while load suite lost
+0x0099BB04 [ASCII] [amsInstallJad] ERROR : Failed to allocate buffer to hold JAD content
+0x0099BB4C [ASCII] [amsInstallJad] ERROR : Failed to generate buffer to hold JAR URL
+0x009A2724 [ASCII] ABL_AudRecStart AppId:%d, resume:%d, Cb:%08x, Rec type:%d, Rec path:%d, Storage:%d, path len:%d, path:%s
+0x009A2DE8 [ASCII] MML: Send Command(ucid:0x%x, callback:0x%x, param:0x%x, paramsize:0x%x)
+0x009A7864 [ASCII] /dev/nand/1
+0x009D28F0 [UTF16LE] fs:/PHON/.system/WapExplorer/Bookmark/
+0x009D2940 [UTF16LE] fs:/PHON/.system/WapExplorer/History/
+0x009D3C34 [ASCII] [FileMgrApp]: *** Error ***, Replace option menu window with Select Storage one failed!!
+0x009D4F54 [ASCII] [_JavaAmsCreateBGRadioSelectWnd] WdgMenuRegisterSoftkeyActCb() failed
+0x009DAFA0 [ASCII] [TRACE] mmi_voicememoapp.c (1396): [StorageMgrGetAvailFullPath] fullpath=%s
+0x009DAFEC [ASCII] [TRACE] mmi_voicememoapp.c (1327): [StorageMgrGetAvailFullPath] fullpath=%s
+0x009DD0DC [ASCII] JAVA
+0x009DD14C [ASCII] JAVA2
+0x009DD6EC [ASCII] JAVA
+0x009DD740 [ASCII] JAVA2
+0x009E226C [ASCII] ABL_CamSetConfig: AppId:%d, storage:%d, path:%s, path len:%d, Cam mode:%d, path:%d, Cb:%08x
+0x009E4BD8 [ASCII] [INFO] mmi_if_java.c (279): [JAVA IF] mmi_java_user_extend_rsp_if get info suite name(%s)
+0x009E4C34 [ASCII] [INFO] mmi_if_java.c (283): [JAVA IF] mmi_java_user_extend_rsp_if get info suite name(%s)
+0x009FC0B0 [UTF16LE] fs:/PHON/.system/WapExplorer/Bookmark/
+0x009FC100 [UTF16LE] fs:/PHON/.system/WapExplorer/History/
+0x009FC14C [UTF16LE] fs:/PHON/.system/WapExplorer/Input.cdw
+0x00A3F0B8 [ASCII] Accept:text/html,application/xhtml+xml,text/vnd.wap.wml,image/vnd.wap.wbmp,image/x-bmp,image/bmp,image/jpg,image/jpeg,image/pjpeg,image/gif,image/png,text/vnd.sun.j2me.app-descriptor,application/java-archive,application/x-nes-rom,text/plain,audio/mid
+0x00A4F618 [ASCII] Accept:*/*,text/ecmascript,application/xhtml+xml,application/vnd.wap.wbxml,text/vnd.wap.wml,text/vnd.sun.j2me.app-descriptor,application/java-archive,application/vnd.wap.mms-message,application/vnd.wap.wmlc,text/vnd.sun.j2me.app-descriptor,applicatio
+0x00A4F97C [ASCII] Accept:application/vnd.wap.mms-message,application/vnd.wap.wmlscriptc,application/vnd.wap.wmlc,application/vnd.wap.wbxml,text/wnd.wap.wmlscript,text/vnd.sun.j2me.app-descriptor,application/java-archive,application/octet-stream,image/vnd.wap.wbmp;leve
+0x00A65670 [ASCII] */*,text/html,text/vnd.wap.wml, text/vnd.sun.j2me.app-descriptor, application/java-archive,application/html
+0x00A80413 [ASCII] !"#$%Unsupported file (SureStream file with no backwards-compatible streams)
+0x00AB3350 [ASCII] suites.utf
+0x00AB335B [ASCII] _s.jar
+0x00AB3697 [ASCII] application/java-archive
+0x00AB48BA [ASCII] /NAND/sysbt/rd
+0x00AB4E5D [ASCII] MIDlet-Info-URL:
+0x00AB4E6E [ASCII] MIDlet-Jar-URL:
+0x00AB4E7E [ASCII] MIDlet-Description:
+0x00AB4F85 [ASCII] /dev/nand/1
+0x00ABA9A2 [ASCII] x-javascript
+0x00ABAB15 [ASCII] .java
+0x00ABAB27 [ASCII] x-java-source
+0x00ABAF81 [ASCII] java applet
+0x00ABC9C9 [ASCII] upwards double arrow, U+21D1 ISOamsa
+0x00ABC9EE [ASCII] downwards double arrow, U+21D3 ISOamsa
+0x00ABCA15 [ASCII] left right arrow, U+2194 ISOamsa
+0x00ABCA36 [ASCII] left right double arrow, U+21D4 ISOamsa
+0x00ABCA9D [ASCII] n-ary sumation, U+2211 ISOamsb
+0x00ABCABC [ASCII] circled plus = direct sum, U+2295 ISOamsb
+0x00ABCAE6 [ASCII] dot operator, U+22C5 ISOamsb
+0x00ABCB03 [ASCII] circled times = vector product, U+2297 ISOamsb
+0x00ABCB32 [ASCII] n-ary product = product sign, U+220F ISOamsb
+0x00ABCD92 [ASCII] left ceiling = apl upstile, U+2308 ISOamsc
+0x00ABCDBD [ASCII] right ceiling, U+2309 ISOamsc
+0x00ABCDDB [ASCII] left floor = apl downstile, U+230A ISOamsc
+0x00ABCE06 [ASCII] right floor, U+230B ISOamsc
+0x00ABDFA3 [ASCII] not a subset of, U+2284 ISOamsn
+0x00ABDFF0 [ASCII] angle, U+2220 ISOamso
+0x00ABE006 [ASCII] blackletter capital I = imaginary part, U+2111 ISOamso
+0x00ABE03D [ASCII] empty set = null set = diameter, U+2205 ISOamso
+0x00ABE06D [ASCII] script capital P = power set = Weierstrass p, U+2118 ISOamso
+0x00ABE0AA [ASCII] blackletter capital R = real part symbol, U+211C ISOamso
+0x00ABE245 [ASCII] almost equal to = asymptotic to, U+2248 ISOamsr
+0x00ABE2AC [ASCII] diams
+0x00ABEED4 [ASCII] PARAMS
+0x00AC370A [ASCII] Javanese
+0x00AC4038 [ASCII] application/java-vm
+0x00AC4554 [UTF16LE] _s.enc
+0x00AC4562 [UTF16LE] _s.jad
+0x00AC45AA [UTF16LE] _s.jar
+0x00AC45C6 [UTF16LE] /NAND/
+0x00AC46A6 [UTF16LE] MIDlet-Jar-RSA-SHA
+0x00AC46CC [UTF16LE] MIDlet-Certificate
+0x00AC46F2 [UTF16LE] MIDlet-Permissions
+0x00AC47B8 [UTF16LE] /NAND/sysbt/rd
+0x00AC480C [UTF16LE] /NAND/sysbt
+0x00AC55D0 [UTF16LE] fs:/PHON/HamsterFight/melody/HAMSTERFIGHT_HAMMER_HIT.mp3
+0x00AC5642 [UTF16LE] fs:/PHON/HamsterFight/melody/HAMSTERFIGHT_ANIMAL_OUT.mp3
+0x00AC5A76 [UTF16LE] fs:/PHON/.system/WapExplorer/
+0x00AC5AB2 [UTF16LE] fs:/PHON/.system/WapExplorer/Browser/
+0x00AC5B8A [UTF16LE] fs:/PHON/.system/MMS
+0x00AC5BB4 [UTF16LE] fs:/CARD/.system/RAI_Dbg
+0x00AC5BE6 [UTF16LE] fs:/CARD/.system
+0x00AC5C08 [UTF16LE] fs:/PHON/.system
+0x00AC87D6 [UTF16LE] JAVA test
+0x00AC8894 [UTF16LE] Set JAVA filter
+0x00AF692C [ASCII] [JAVA]
+0x00AF7A48 [UTF16LE] MIDlet-Name
+0x00AF7A60 [UTF16LE] MIDlet-Version
+0x00AF7A80 [UTF16LE] MIDlet-Vendor
+0x00AF7A9C [UTF16LE] MIDlet-Jar-Size
+0x00AF7ABC [UTF16LE] MIDlet-Jar-URL
+0x00AF7ADC [UTF16LE] MIDlet-Install-Notify
+0x00AF7B08 [UTF16LE] MIDlet-Description
+0x00AF7B30 [UTF16LE] MIDlet-1
+0x00AF7B44 [UTF16LE] MIDlet-2
+0x00AF7B58 [UTF16LE] MIDlet-3
+0x00AF7B6C [UTF16LE] MIDlet-4
+0x00AF7B80 [UTF16LE] MIDlet-5
+0x00AF7BF8 [UTF16LE] MIDlet-Icon
+0x00B0DA32 [UTF16LE] USB Mass Storage Device
+0x01324870 [ASCII] CAMSHIN
+0x013C741B [ASCII] eJava>eJaw
+0x013D8A14 [ASCII] eMPLAMSDOSMr.MrdMrd.NRWNSUNr.OPECORFOSZEOpOpaOp
+0x014862BA [ASCII] A&A1AAAMAXAjAvA
+0x01B5DEFE [UTF16LE] please close the java application
+0x01B5E49A [UTF16LE] Default storage
+0x01B5ECA8 [UTF16LE] Hamsterfight
+0x01B5EE46 [UTF16LE] Install Confirm
+0x01B5F17E [UTF16LE] Mass storage mode. Storage is inaccessible.
+0x01B5F1D6 [UTF16LE] Mass storage mode, stop answer machine.
+0x01B60606 [UTF16LE] Storage is full, stop answer machine.
+0x01B61F90 [UTF16LE] Install
+0x01B62322 [UTF16LE] Storage
+0x01B62F3E [UTF16LE] Phone storage is insufficient. Received file failed.
+0x01B63044 [UTF16LE] Insufficient storage. Received file failed.
+0x01B636BA [UTF16LE] Storage full, can
+0x01B641B6 [UTF16LE] Storage limit reached. This event can not be saved.
+0x01B64F96 [UTF16LE] File installing
+0x01B64FB6 [UTF16LE] Install theme failed, use default settings.
+0x01B65188 [UTF16LE] Mass storage mode. Current function is inaccessible.
+0x01B658DE [UTF16LE] No Storage card to save.
+0x01B65C7A [UTF16LE] Storage is full!
+0x01B65C9C [UTF16LE] Storage full, just import part of contacts.
+0x01B6610A [UTF16LE] Insufficient storage
+0x01B66404 [UTF16LE] SMS Storage Full
+0x01B6647E [UTF16LE] Storage is full, contacts partially copied.
+0x01B664D6 [UTF16LE] Storage not enough, will copy partially, copy anyway?
+0x01B66542 [UTF16LE] Storage reset to card
+0x01B6656E [UTF16LE] Storage reset to phone
+0x01B6659C [UTF16LE] Storage set to phone temporarily
+0x01B665DE [UTF16LE] Storage is full!
+0x01B66600 [UTF16LE] Storage is full. Please delete messages.
+0x01B6A360 [UTF16LE] Lutter le Hamster
+0x01B6A54E [UTF16LE] Installer confirmer
+0x01B6D97C [UTF16LE] Installez
+0x01B71086 [UTF16LE] Installation de fichier
+0x01B710B6 [UTF16LE] Echec installation th
+0x01B76A7C [UTF16LE] Melawan hamster
+0x01B76C5E [UTF16LE] Konfirmasi install
+0x01B79E6A [UTF16LE] Install
+0x01B7D390 [UTF16LE] Gagal install tema
+0x01B7D5AE [UTF16LE] Mode mass storage. Fungsi skrg tdk dpt diakses.
+0x01B82AC4 [UTF16LE] Pertarungan hamster
+0x01B8EB06 [UTF16LE] Luta de hamster
+0x01BA9346 [UTF16LE] Llams perdidas
+0x01BDE0D6 [UTF16LE] Hamster u
+0x01BE9FA0 [UTF16LE] Hamster Kampf
+0x01BEA17A [UTF16LE] Installieren best
+0x01BED888 [UTF16LE] Installieren
+0x01BF11A6 [UTF16LE] Datei installieren
+0x01BF11CC [UTF16LE] Installierungshema nicht erfolgt, benutzen Sie Standardeinstellungen
+0x01C7AECA [UTF16LE] Llams recientes
+0x01CEFABC [UTF16LE] Photo storage full
+0x01CF5812 [UTF16LE] Storage limit reached. The channel can not be saved.
+0x01E184CE [UTF16LE] And Install App Program?
+0x01E18E46 [UTF16LE] et installer le Application?
+0x01E1EDC6 [UTF16LE] einstellenUnd Programm installieren?
+0x01E59C92 [UTF16LE] Mode mass storage. Penyimpan tdk dpt diakses.
+0x01EB0D96 [UTF16LE] ReInstall preinstall applications...
+0x01EB0DE0 [UTF16LE] Install finished, please launch again
+0x01EB11FE [UTF16LE] The application is damaged, suggest to remove and re-install
+0x01EB1278 [UTF16LE] Would you like to install?
+0x01EB12E4 [UTF16LE] URL of your suite is invalid
+0x01EB13B4 [UTF16LE] Install anyway?
+0x01EB1466 [UTF16LE] Failed to install.
+0x01EB14DA [UTF16LE] Newer version is installed.
+0x01EB1590 [UTF16LE] Older version is installed.
+0x01EB15D8 [UTF16LE] Please remove the application and install again.
+0x01EB163A [UTF16LE] Same version is installed
+0x01EB1706 [UTF16LE] Max Num of App installed. Remove some first.
+0x01EB17A6 [UTF16LE] Installing
+0x01EB1964 [UTF16LE] -install
+0x01EB1DC8 [UTF16LE] Voulez-vous installer?
+0x01EB1DF6 [UTF16LE] Nom de fichier d'installation est trop long
+0x01EB1E4E [UTF16LE] Fichier d'installation ne trouve pas
+0x01EB1F30 [UTF16LE] rent. Voulez-vous l'installer?
+0x01EB200E [UTF16LE] L'installation a
+0x01EB20FC [UTF16LE] install
+0x01EB21DE [UTF16LE] install
+0x01EB2232 [UTF16LE] SVP,supprimez l'application et installer encore
+0x01EB22C2 [UTF16LE] install
+0x01EB235C [UTF16LE] Installer plafond
+0x01EB23CC [UTF16LE] Installation
+0x01EB28F2 [UTF16LE] Apakah anda menginginkan di install?
+0x01EB2A46 [UTF16LE] Di install?
+0x01EB2ACA [UTF16LE] Gagal di install
+0x01EB2B40 [UTF16LE] Versi terbaru sdh ter install.
+0x01EB2BDA [UTF16LE] Versi lama sdh ter install.
+0x01EB2C82 [UTF16LE] Versi yg sama sdh tre install.
+0x01EB34A6 [UTF16LE] URL suite anda tidak sah
+0x01EB4012 [UTF16LE] URL do seu suite
+0x01EB59FA [UTF16LE] URL de su suite inv
+0x01EB981E [UTF16LE] Installieren Sie die vorinstallierten Applikationen
+0x01EB9886 [UTF16LE] Installieren abgeschlossen, schalten Sie ein noch einmal
+0x01EB9DFE [UTF16LE] digt, entfernen und neu installieren vorgeschlagen
+0x01EB9E68 [UTF16LE] chten Sie installieren?
+0x01EB9EC8 [UTF16LE] URL Ihrer Suite ist ung
+0x01EB9FAE [UTF16LE] Trotzdem installieren?
+0x01EBA08A [UTF16LE] Installation nicht erfolgt.
+0x01EBA13E [UTF16LE] Eine neuere Version ist bereits installiert.
+0x01EBA23A [UTF16LE] Eine alte Version ist bereits installiert.
+0x01EBA2BA [UTF16LE] Bitte die Anwendung entfernen und wieder installieren.
+0x01EBA328 [UTF16LE] Dieselbe Version ist bereits installiert.
+0x01EBA448 [UTF16LE] Installieren Decke
+0x01EBA4C6 [UTF16LE] Installieren
+0x01EBA6BC [UTF16LE] preinstall
+0x01EF472C [UTF16LE] MMS storage
+0x01EF4C4E [UTF16LE] Storage is full, messages partially copied.
+0x01F044A4 [UTF16LE] MMS Storage Full
+0x01F04658 [UTF16LE] Storage is full, messages partially saved.
+0x01F0DC36 [UTF16LE] From the "Options", select "Install" to configure all settings
+0x01F0E0EA [UTF16LE] Dans "Options", choisissez "Install" pour tout configurer
+0x01F0F72E [UTF16LE] "Options" seleccione "Install" para config. las propiedades
+0x01F11050 [UTF16LE] hlen Sie INSTALL, um alle Einstellungen zu konfigurieren
+0x01F6068A [UTF16LE] Storage is full! Please delete any notes.
+0x01F7D144 [UTF16LE] Storage full, just copied part of contacts.
+0x01F7D2EE [UTF16LE] Storage is full, contacts partially imported
+0x01FC59B2 [UTF16LE] Grams
+0x01FC5A46 [UTF16LE] Kilograms
+0x01FC5C1A [UTF16LE] Milligrams
+0x01FCA250 [UTF16LE] Milligrams
+0x01FCD51E [UTF16LE] Mass storage
+0x01FCD63A [UTF16LE] Mass storage mode. Storage is inaccessible.
+0x01FCD6AE [UTF16LE] Stop transmitting file to use mass storage?
+0x01FCD7AA [UTF16LE] Webcam mode. Storage is inaccessible.
+0x01FCDDBC [UTF16LE] Mode mass storage. Penyimpan tdk dpt diakses.
+0x01FCDE34 [UTF16LE] Hentikan kirim file utk gunakan mass storage?
+0x02698E81 [UTF16LE] HAMST
+0x02698EA0 [ASCII] HAMSTE~1MP3
+0x02698F01 [UTF16LE] HAMST
+0x02698F20 [ASCII] HAMSTE~2MP3
+0x02698F61 [UTF16LE] HAMST
+0x02698F80 [ASCII] HAMSTE~3MP3
+0x02698FC1 [UTF16LE] HAMST
+0x02698FE0 [ASCII] HAMSTE~4MP3
+0x030C2572 [ASCII] AMs$)
+0x0371B6FE [ASCII] AmsI;
+0x03A9F1C9 [ASCII] ams{{
+0x03C136E1 [ASCII] }AmSQ
+0x04077098 [ASCII] nOams
+0x043AC8F9 [ASCII] IGdRAmSF@b2[YDRZ[cXS[ZQ[ZJ
+0x045CCF66 [ASCII] wkatamsL
+0x04F5D8AA [ASCII] Amskyl$
+0x05321239 [ASCII] aMsw}x
+0x059404B8 [ASCII] VMTS STORAGE DEVICE
+0x07BEAEC1 [UTF16LE] Hamst
+0x07BEAEE0 [ASCII] HAMSTE~1
+0x07E7089D [ASCII] aMsdd
+
+Matching strings: 759
